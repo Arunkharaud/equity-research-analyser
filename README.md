@@ -75,4 +75,4 @@ Running the analyser on Apple Inc. (AAPL) produces:
 
 ## Author
 
-Built as a personal finance project to automate fundamental equity analysis and deepen understanding of financial statement analysis and valuation methodology.
+Built as a personal finance project by Arun Kharaud to automate fundamental equity analysis and gain greater understanding of financial statement analysis and valuation methodology.
